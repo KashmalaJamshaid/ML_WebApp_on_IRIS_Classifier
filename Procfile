@@ -1,0 +1,1 @@
+  web: sh setup.sh && streamlit run IRIS_ML_webapp.py
